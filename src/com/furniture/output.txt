@@ -1,0 +1,8 @@
+Furniture code = 5
+Furniture type = table
+Furniture grade = 1
+Furniture usage = outdoor
+Furniture price = 10.0
+Price after discount 9.5
+
+Process finished with exit code 0
